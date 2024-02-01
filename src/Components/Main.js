@@ -44,11 +44,11 @@ export default function Main() {
             </p>
           </div>
         </div>
-        <div className="bg-gray-700 mt-2 mx-auto py-2 px-5 rounded-full">
-          <div className="inline">
-            <img src={Arrow} alt="Arrow" className="inline" />
+        <div className="bg-gray-800 mt-2 mx-auto py-1 pr-5 pl-1 rounded-full border border-gray-500">
+          <div className="inline bg-gray-300 items-center p-1 px-2 rounded-full mr-3">
+            <img src={Arrow} alt="Arrow" className="inline w-6 pb-1" />
           </div>
-          <p className="inline text-gray-300">More</p>
+          <p className="inline text-gray-300 text-lg">More</p>
         </div>
       </footer>
     </div>

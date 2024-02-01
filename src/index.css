@@ -10,6 +10,9 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #131313;
+  background-image: url("Images/Rectangle 2.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 code {
